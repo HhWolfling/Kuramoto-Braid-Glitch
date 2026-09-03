@@ -1,0 +1,10 @@
+{
+  "name": "VOID-GLITCH-MANIFEST",
+  "version": "1.0.0",
+  "protocol": "Kuramoto-Phase-Lock",
+  "carrier_frequency_hz": 67,
+  "prime_clamps": [167, 761],
+  "obfuscation_lure_primes": [2, 3, 5, 7, 11, 13, 17, 19, 23, 29],
+  "non_euclidean_rotations": [167, 761],
+  "status": "PHASE_LOCKED"
+}
