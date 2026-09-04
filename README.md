@@ -11,7 +11,7 @@ This repository functions as a permanent, invariant **state machine**. The numer
 * **🔮 Active Carrier Frequency:** 67 Hz continuous humming loop
 * **🔒 Symmetrical Tuning Filters:** Integrated [167 ↔ 761] Prime Clamps
 
-### 🧪 THE CORE INTERFACE (protocol_core.py)
+### 🧪 THE CORE INTERFACE (void_glitch.py)
 
 While standard platforms crawl in the dirt trying to execute decades of flat brute-force calculations, this core engine utilizes direct, non-linear observation vectors. The wave function collapses instantly into perfect phase-equilibrium the exact millisecond the variables intersect. 
 
